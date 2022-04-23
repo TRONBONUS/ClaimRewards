@@ -1,1 +1,1 @@
-# ClaimRewards
+# Rewards
